@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.136ce6a3.css",
+    "main.js": "/static/js/main.9d19e0b3.js",
+    "static/js/787.beb417d3.chunk.js": "/static/js/787.beb417d3.chunk.js",
+    "static/media/chain1.png": "/static/media/chain1.12170565430f11a21866.png",
+    "static/media/fence4.png": "/static/media/fence4.6e8a63aa7c75abbe05ba.png",
+    "static/media/fence3.png": "/static/media/fence3.86d0a4655dc388ae2760.png",
+    "static/media/fence5.png": "/static/media/fence5.6079fdb7eaf414519991.png",
+    "static/media/fence1.png": "/static/media/fence1.2a161640aebb97d28200.png",
+    "static/media/fence2.png": "/static/media/fence2.929c89dd3ab4f3f17cb7.png",
+    "static/media/slider-5.webp": "/static/media/slider-5.a118cabb47c6e6ddf8de.webp",
+    "static/media/slide-2.webp": "/static/media/slide-2.47bb2faaf7e55236da78.webp",
+    "static/media/Image-2.webp": "/static/media/Image-2.81489cfaf25b2bd3bb58.webp",
+    "static/media/slide-1.webp": "/static/media/slide-1.b12ca273f1b2e0ea8953.webp",
+    "static/media/Whats2.png": "/static/media/Whats2.96d35f91d4ba9c3c2785.png",
+    "static/media/slide-4.webp": "/static/media/slide-4.b45cd6b1d567f3dc27b1.webp",
+    "static/media/slider-6.webp": "/static/media/slider-6.5366f27e397042c45a45.webp",
+    "static/media/bg.jpg": "/static/media/bg.43a9149a678e02261ff2.jpg",
+    "static/media/Whats.jpg": "/static/media/Whats.4433011b2ba9ffff4f0f.jpg",
+    "static/media/Whats1.jpg": "/static/media/Whats1.9a90319c2e91ac00b19b.jpg",
+    "static/media/electric.jpg": "/static/media/electric.66f4c9ab9c0f32d43e32.jpg",
+    "static/media/Wha.jpg": "/static/media/Wha.a0357a19b4113f3a737e.jpg",
+    "static/media/cosoon.avif": "/static/media/cosoon.91986782bc8bfac7967d.avif",
+    "static/media/04.jpg": "/static/media/04.5e54898ba0d5032df1e2.jpg",
+    "static/media/footer.png": "/static/media/footer.1e23f26ae045d648dfb9.png",
+    "static/media/bg-01.jpg": "/static/media/bg-01.e94206f09b3f1fb1f1fe.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.136ce6a3.css.map": "/static/css/main.136ce6a3.css.map",
+    "main.9d19e0b3.js.map": "/static/js/main.9d19e0b3.js.map",
+    "787.beb417d3.chunk.js.map": "/static/js/787.beb417d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136ce6a3.css",
+    "static/js/main.9d19e0b3.js"
+  ]
+}
